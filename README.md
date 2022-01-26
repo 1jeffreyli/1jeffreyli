@@ -1,6 +1,8 @@
-[![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=1jeffreyli)](https://github.com/1jeffreyli/github-readme-stats)
+<a href="https://github.com/1jeffreyli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1jeffreyli&theme=swift&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1jeffreyli&theme=swift&layout=compact" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1jeffreyli)](https://github.com/1jeffreyli/github-readme-stats)
 
 <!---
 Stats card courtesy of Anurag Hazra
