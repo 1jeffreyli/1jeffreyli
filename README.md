@@ -1,4 +1,4 @@
-### <div align="center">I'm Jeffrey, a 💻 full-stack developer, 🍲 foodie, and ⚽ soccer/football fan.</div>  
+### <div align="center">I'm Jeffrey, a 💻 self-taught developer, 🍲 foodie, and ⚽ (humbled) Manchester United fan.</div>  
   
 
 - 📚 I'm currently an English Program in Korea (EPiK) English teacher in Daegu, South Korea.  
@@ -7,7 +7,7 @@
 - 🌱 I’m currently going through the full-stack track on The Odin Project (TOP).  
   
 
-- 🍕 I'm originally from Chicago and will be based in L.A.  
+- 🍕 I'm originally from Chicago but based in L.A.  
   
 
 <br/>  
