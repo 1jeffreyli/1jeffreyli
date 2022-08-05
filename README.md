@@ -1,9 +1,6 @@
 ### <div align="center">I'm Jeffrey, a 💻 self-taught developer, 🍲 foodie, and ⚽ (humbled) Manchester United fan.</div>  
   
-
-- 📚 I'm currently an English Program in Korea (EPiK) English teacher in Daegu, South Korea.  
   
-
 - 🌱 I’m currently going through the full-stack track on The Odin Project (TOP).  
   
 
