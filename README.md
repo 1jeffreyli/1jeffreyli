@@ -1,7 +1,7 @@
 ### <div align="center">I'm Jeffrey, a 💻 self-taught developer, 🍲 foodie, and ⚽ (humbled) Manchester United fan.</div>  
   
   
-- 🌱 I’m currently going through the full-stack track on The Odin Project (TOP) and Google Project Management certification.  
+- 🌱 I'm a project manager with a Professional Scrum Master I (PSM I) certification.  
   
 
 - 🍕 I'm originally from Chicago but based in L.A.  
